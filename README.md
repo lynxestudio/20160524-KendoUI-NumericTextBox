@@ -20,24 +20,24 @@ Bien ahora mostraré un código en donde se verán todas las propiedades de este
 </p>
 <div><b>Fig 1</b> La ejecución de la página con 6 controles NumericTextBox.</div><br>
 <div>
-<IMG src="picture_library/kendonumerictextbox/fig0.png">
+<IMG src="images/fig0.png">
 </div><br>
 <p align="justify">Introduciendo los valores, observamos como los controles le dan formato numérico a las entradas de datos.</p>
 	<div><b>Fig 2</b> Primer ejemplo: Introduciendo las cantidades numéricas.</div><br>
 <div>
-<IMG src="picture_library/kendonumerictextbox/fig1.png">
+<IMG src="images/fig1.png">
 </div><br>
 <div><b>Fig 3</b> Completando las entradas numéricas del primer ejemplo.</div><br>
 <div>
-<IMG src="picture_library/kendonumerictextbox/fig2.png">
+<IMG src="images/fig2.png">
 </div><br>
 <div><b>Fig 4</b> Un segundo ejemplo, introduciendo las cantidades numéricas.</div><br>
 <div>
-<IMG src="picture_library/kendonumerictextbox/fig3.png">
+<IMG src="images/fig3.png">
 </div><br>
 <div><b>Fig 5</b> Un segundo ejemplo, completando las entradas numéricas.</div><br>
 <div>
-<IMG src="picture_library/kendonumerictextbox/fig4.png">
+<IMG src="images/fig4.png">
 </div><br>
 <p align="justify">Como primer paso hago la iniciación de los controles, con la sintaxis:</p>
 <p align="justify">Aquí algunas de las propiedades que utilizo en los controles de este ejemplo:
